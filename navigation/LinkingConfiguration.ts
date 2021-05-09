@@ -27,4 +27,11 @@ export default {
       NotFound: '*',
     },
   },
+  config: {
+    Profile: {
+      screens: {
+        ProfileScreen: '/Profile',
+      }
+    },
+  }
 };
