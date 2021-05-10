@@ -15,7 +15,9 @@ keep APPID to use my facebook test account to test.
 
 ### 6. Start
 yarn web </br>
-It will be on http://localhost:19006
+It will be on http://localhost:19006 </br>
+Note: Start API server before please (rails s)
+
 ### 7. Login with test facebook account
 If you want to login by your facebook account, request me please,</br>
 Because we using the development facebook app, so it too inconvenient, I'm sorry about that.</br>
